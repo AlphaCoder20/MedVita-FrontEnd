@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <p>hi</p>
+      <p>hi, hello Vanakkam</p>
     </>
   )
 }
